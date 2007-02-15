@@ -1,0 +1,79 @@
+# Copyright (C) 2005 Jan Alonzo <jmalonzo@unpluggable.com>
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+# 02111-1307, USA.
+
+SET ISO8859-1
+TRY anigptlksumobyrhdew-'cPMASIBfKTLvCNHEDJRFzxjVGqOUZYWQñ
+
+
+PFX A Y 5
+PFX A   0       um      [aeiou]         # umabot, umiwas, umuwi
+PFX A   0       uma     [aeiou]         # umaasa, umaabot
+PFX A   0       pina    a               # pinaasa, pinaabot
+PFX A   0       han     [aeiou]         # pamilihan
+PFX A   0       ina     a               # inaabot, inaasa, inaasikaso
+
+PFX M Y 8   
+PFX M   0       ma      .               # mamuhay, mamili, mabuhay, mabili
+PFX M   t       man     t               # manakot, manigas
+PFX M   k       mang    k               # manguha
+PFX M   0       mang    [hgi]           # manghuli,manggulo,manggagawa,mangisda
+PFX M   0       man     l               # manlikom
+PFX M   0       mag     .               # magayos, magisip, maglaba
+PFX M   0       may     [^aeiou]        # maybahay
+PFX M   0       makipag .               # makipagayos, makipagsintahan
+
+PFX N Y 2
+PFX N   0       nag     .               # nagbanta, nagayos
+PFX N   0       na      .               # natira, naayos
+
+PFX P Y 4
+PFX P   0       pam     [pbm]           # pambutas
+PFX P   0       pan     [tdn]           # pandamo
+PFX P   0       pang    [gngh]          # panghiwa,
+PFX P   0       pag     .               # pagaayos, pagnanasa, pagkikita
+
+SFX A Y 3
+SFX A   0       ng      [aeiou]         # kayang, umupong, piling
+SFX A   0       han     [aeiou]         # kantahan, kwentuhan
+SFX A   0       an      .               # nahiwagaan
+
+SFX G Y 1
+SFX G   0       g       n               # sangguniang, batikang
+
+SFX I Y 2
+SFX I   0       hin     [aeiou]         # kantahin
+SFX I   0       in      [^aeiou]        # pilitin, sungkitin, 
+
+SFX O N 1
+SFX O   0       ng      o               # produktong
+
+SFX Y Y 1
+SFX Y   w       y       [^aeiou]w       # ika'y
+
+REP 11
+REP a ah
+REP si se
+REP se si
+REP mi me
+REP me mi
+REP do du
+REP du do
+REP eh e
+REP e eh
+REP u oo
+REP oo u
+

@@ -1,0 +1,25 @@
+name_english Tagalog
+name_native Tagalog
+lang tl
+data_file tl_affix.dat
+author:
+  name  Jan Alonzo
+  email jmalonzo at unpluggable com
+  maintainer true
+author:
+  name  Ramil Sagum
+  email ramil at sagum net
+author:
+  name  Kevin P. Scannell
+  email scannell at slu edu
+copyright Copyrighted
+version 0.60-1
+url http://borel.slu.edu/crubadan/index.html
+complete false
+accurate false
+mode aspell6
+alt-encoding iso-8859-1 iso
+alias tl tagalog
+dict:
+  name tl
+  add tl

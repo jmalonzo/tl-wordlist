@@ -1,0 +1,7 @@
+name tl
+charset iso8859-1
+special ' -*- - -*-
+soundslike generic
+affix tl
+affix-compress true
+repl-table tl_affix.dat
