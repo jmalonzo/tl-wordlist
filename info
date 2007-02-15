@@ -13,13 +13,13 @@ author:
   name  Kevin P. Scannell
   email scannell at slu edu
 copyright Copyrighted
-version 0.60-1
+version 0.3
 url http://borel.slu.edu/crubadan/index.html
 complete false
 accurate false
 mode aspell6
 alt-encoding iso-8859-1 iso
-alias tl tagalog
 dict:
   name tl
+  alias tl_PH
   add tl

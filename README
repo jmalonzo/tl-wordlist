@@ -48,7 +48,7 @@ setting the LANG environmental variable to tl or running Aspell
 with "--lang=tl".  You may also chose the dictionary directly
 with the "-d" or "--master" option of Aspell.  You can chose from any of
 the following dictionaries:
-  tl (tagalog)
+  tl (tl_PH)
 Whereas the names in parentheses are alternate names for the
 dictionary preceding the parentheses.
 
