@@ -12,6 +12,7 @@ DEB_INSTALL_DOCS_ALL := README Copyright
 install/aspell-tl::
 	gzip -c < tl.cwl > tl.cwl.gz
 	touch tl.compat tl.rws
+	dh_link "var/lib/aspell/tl.rws" "usr/lib/aspell/tl.rws"
 
 clean:: 
 	rm -f Makefile tl.cwl.gz tl.compat tl.rws
