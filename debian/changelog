@@ -1,7 +1,7 @@
-aspell-tl (0.03-1) unstable; urgency=low
+aspell-tl (0.3-1) unstable; urgency=low
 
   * Updated Standards-Version to 3.7.2.
-  * Updated FSF address
+  * Updated FSF address.
   * control:
     + Build-Depends on dictionaries-common-dev >= 0.70,
     	mainly so we can use cdbs dict-common rules.
@@ -10,11 +10,10 @@ aspell-tl (0.03-1) unstable; urgency=low
   * Split from ispell-tl source package:
     + aspell-tl now is in its own source package.
     + changelog from previous source has been retained below.
-  * New stable release aspell-tl-0.3
+  * New stable release aspell-tl-0.3.
 
- -- Jan Alonzo <jmalonzo@unpluggable.com> Fri, 23 Feb 2007 00:00:00 +1100
-
-  
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Fri, 23 Feb 2007 00:00:00 +1100
+ 
 ispell-tl (0.02-5.1) unstable; urgency=low
 
   * Non-maintainer upload.
