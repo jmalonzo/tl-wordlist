@@ -27,7 +27,7 @@ PFX A   0       han     [aeiou]         # pamilihan
 PFX A   0       ina     a               # inaabot, inaasa, inaasikaso
 
 PFX I Y 1       
-PFX A   0       in      [aeiou]         # inalmirol, inasal, inedit
+PFX I   0       in      [aeiou]         # inalmirol, inasal, inedit
 
 PFX M Y 8   
 PFX M   0       ma      .               # mamuhay, mamili, mabuhay, mabili

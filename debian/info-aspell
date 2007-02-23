@@ -6,6 +6,4 @@ Not-Casechars: [^A-ZÑa-zñ]
 Otherchars: [-']
 Many-Otherchars: no
 AdditionalChars: ñÑ
-Ispell-Args:
-Extended-Character-Mode:
 Coding-System: iso-8859-1
