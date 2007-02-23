@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+include /usr/share/cdbs/1/rules/debhelper.mk
+include /usr/share/dictionaries-common/cdbs/dict-common.mk
+
+ASPELL_DIR = usr/lib/aspell
+DEB_INSTALL_DOCS_ALL := Crawler.txt README
+

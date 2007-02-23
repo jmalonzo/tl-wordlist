@@ -1,0 +1,14 @@
+Contributors
+----
+
+Use the following command to create the build scripts, 'alias' and 'multi'
+files:
+
+
+$ perl proc create
+
+
+Once done, you can now run the build as stated in the README.
+
+
+- jan

@@ -1,0 +1,109 @@
+aspell-tl (0.03-1) unstable; urgency=low
+
+  * Updated Standards-Version to 3.7.2.
+  * Updated FSF address
+  * control:
+    + Build-Depends on dictionaries-common-dev >= 0.70,
+    	mainly so we can use cdbs dict-common rules.
+  * rules:
+    + use cdbs's dict-common rules for a clean rules file.
+  * Split from ispell-tl source package:
+    + aspell-tl now is in its own source package.
+    + changelog from previous source has been retained below.
+  * New stable release aspell-tl-0.3
+
+ -- Jan Alonzo <jmalonzo@unpluggable.com> Fri, 23 Feb 2007 00:00:00 +1100
+
+  
+ispell-tl (0.02-5.1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * aspell transition (closes: #319666, #360450):
+    + Provide aspell6a-dictionnary,
+    + Replace aspell-bin dependencies with aspell (>= 0.60.3-2),
+    + Remove libaspell dependencies,
+    + Make the package arch: all.
+  * Fix debconf depends, add | debconf-2.0 alternative (closes: #331870).
+
+ -- Pierre Habouzit <madcoder@debian.org>  Wed, 31 May 2006 23:41:46 +0200
+ 
+ispell-tl  (0.02-5) unstable; urgency=low
+
+  * Transition to Aspell 0.60 (closes: #295425)
+  * debian/control:
+    + Provide aspell6-dictionary.
+    + Depend on libaspell15 (>= 0.60)
+  * debian/rules:
+    + Removed usr/lib/aspell and usr/share/aspell. The new aspell path is
+      usr/lib/aspell-0.60
+  * debian/tl_affix.dat: New Aspell 0.60 affix format for aspell-tl.
+
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Fri, 23 Feb 2005 22:16:25 +1100
+
+
+ispell-tl (0.02-4) unstable; urgency=low
+
+  * First itagalog and aspell-tl upload to Debian (closes: #283336, #283859)
+  * Moved tl.dat in debian/ as suggested by Agustin Martin.
+  * debian/patches/: Removed, no unnecessary Makefile patching.
+  * debian/rules:
+    + Removed simple-patchsys.mk include because we're not patching the
+      makefile anymore.
+    + Removed makefile.mk include. Just buildhash from this (rules) file.
+    + Split common-binary-post-install-arch into
+      binary-post-install/${package} again. I think it's cleaner this way.
+    + Merged {itagalog,aspell-tl}.links file.
+
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Sat, 11 Dec 2004 00:28:08 +1100
+
+ispell-tl (0.02-3.0.1) unstable; urgency=low
+
+  * My minor changes:
+    - debian/itagalog.info-ispell:
+        Added ñÑ to Casechars, Not-Casechars and additional chars
+    - debian/changelog:
+        Added utf-8 coding tag in Local Variables section for emacs benefit.
+
+ -- Agustin Martin Domingo <agmartin@debian.org>  Fri, 10 Dec 2004 12:23:54 +0100
+
+ispell-tl (0.02-3) unstable; urgency=low
+
+  * Merged aspell-tl. Copied tl.dat from aspell-tl.
+  * debian/itagalog.post{inst,rm}: Removed, handled by installdeb-ispell.
+  * debian/info-all.in: Added as template for aspell-tl and itagalog info-{i,a}spell.
+  * debian/itagalog.info-ispell: Removed, generated during build using info-all.in.
+  * debian/docs: Removed, use DEB_INSTALL_DOCS_ALL (cdbs) instead. This will
+    make the docs-files existent in all the packages.
+  * debian/control: Added aspell-tl entry
+  * debian/rules: 
+    + Added aspell-tl entry
+    + Added build,install, and cleanbuilddir target for each package.
+    + Merged binary-post-install/package in common-binary-post-install-arch.
+  * {itagalog,aspell-tl}.links: Moved from debian/rules.
+  * debian/copyright:
+    + Added aspell upstream author, Kevin Atkinson
+    + Added aspell-tl download URL
+
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Fri, 10 Dec 2004 16:37:18 +1100
+
+ispell-tl (0.02-2) unstable; urgency=low
+
+  * Fixed debian/copyright as suggested by Brian Nelson.
+    Reference: http://lists.debian.org/debian-devel-announce/2003/12/msg00007.html
+  * Changed ispell to Ispell in debian/control
+  * Depend on cdbs 0.4.5 (which contains Makefile patching and
+    reverse-patching on clean rules)
+  * Build-Depends on debhelper 4.1.0 as suggested by 'linda' package checker.
+	
+
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Thu,  9 Dec 2004 16:35:10 +1100
+
+ispell-tl (0.02-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Thu,  2 Dec 2004 08:27:55 +1100
+
+Local Variables:
+ coding: utf-8
+End:

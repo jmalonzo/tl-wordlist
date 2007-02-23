@@ -1,4 +1,4 @@
-# Copyright (C) 2005 Jan Alonzo <jmalonzo@unpluggable.com>
+# Copyright (C) 2007 Jan Alonzo <jmalonzo@unpluggable.com>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -12,8 +12,8 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, write to the Free Software
-# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
-# 02111-1307, USA.
+# Foundation, Inc., 51 Franklin St, Fifth Floor, Boston,
+# MA 02110-1301, USA.
 
 SET ISO8859-1
 TRY anigptlksumobyrhdew-'cPMASIBfKTLvCNHEDJRFzxjVGqOUZYWQñ
@@ -25,6 +25,9 @@ PFX A   0       uma     [aeiou]         # umaasa, umaabot
 PFX A   0       pina    a               # pinaasa, pinaabot
 PFX A   0       han     [aeiou]         # pamilihan
 PFX A   0       ina     a               # inaabot, inaasa, inaasikaso
+
+PFX I Y 1       
+PFX A   0       in      [aeiou]         # inalmirol, inasal, inedit
 
 PFX M Y 8   
 PFX M   0       ma      .               # mamuhay, mamili, mabuhay, mabili
@@ -46,10 +49,11 @@ PFX P   0       pan     [tdn]           # pandamo
 PFX P   0       pang    [gngh]          # panghiwa,
 PFX P   0       pag     .               # pagaayos, pagnanasa, pagkikita
 
-SFX A Y 3
+SFX A Y 4
 SFX A   0       ng      [aeiou]         # kayang, umupong, piling
 SFX A   0       han     [aeiou]         # kantahan, kwentuhan
 SFX A   0       an      .               # nahiwagaan
+SFX A   0       't      a               # simula't
 
 SFX G Y 1
 SFX G   0       g       n               # sangguniang, batikang
@@ -58,11 +62,15 @@ SFX I Y 2
 SFX I   0       hin     [aeiou]         # kantahin
 SFX I   0       in      [^aeiou]        # pilitin, sungkitin, 
 
+SFX N Y 1
+SFX N   n       'y      n               # naman -> nama'y
+
 SFX O N 1
 SFX O   0       ng      o               # produktong
 
-SFX Y Y 1
-SFX Y   w       y       [^aeiou]w       # ika'y
+SFX Y Y 2
+SFX Y   w       'y       [^aeiou]w       # ika'y
+SFX Y   0       'y       [ao]
 
 REP 11
 REP a ah
@@ -76,4 +84,3 @@ REP eh e
 REP e eh
 REP u oo
 REP oo u
-

@@ -1,0 +1,11 @@
+Language: tagalog (Tagalog Filipino)
+Hash-Name: tagalog
+Emacsen-Name: tagalog
+Casechars: [A-ZÑa-zñ]
+Not-Casechars: [^A-ZÑa-zñ]
+Otherchars: [-']
+Many-Otherchars: no
+AdditionalChars: ñÑ
+Ispell-Args:
+Extended-Character-Mode:
+Coding-System: iso-8859-1

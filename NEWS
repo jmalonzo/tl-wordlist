@@ -1,0 +1,10 @@
+NEWS
+----
+
+
+aspell-tl 0.3
+=============
+
+ * Upgrade to GNU Aspell 0.60.x
+ * The word list now contains 18203 words
+ * The affix file is now more useful compared previous releases

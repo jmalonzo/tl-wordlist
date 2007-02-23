@@ -1,0 +1,15 @@
+Source: aspell-tl
+Section: text
+Priority: optional
+Maintainer: Jan Alonzo <jmalonzo@unpluggable.com>
+Build-Depends: debhelper (>= 4.1.0), dictionaries-common (>= 0.10), dictionaries-common-dev (>= 0.70), cdbs (>= 0.4.5), aspell (>= 0.60.3-3)
+Standards-Version: 3.7.2
+
+Package: aspell-tl
+Architecture: all
+Depends: aspell (>= 0.60.3-3)
+Provides: aspell-dictionary
+Suggests: aspell-bin
+Description: The Tagalog dictionary for GNU Aspell
+ This package contains all the required files to add support 
+ for the Tagalog language to the GNU Aspell spell checker.
