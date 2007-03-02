@@ -13,6 +13,21 @@ $ perl proc create
 Once done, you can now run the build as stated in the README.
 
 
+Creating the word list including affixes
+----
+
+The word list with affixes is not currently included because it's easy enough
+to create this using aspell's munch-list command. The word list without affixes
+is included and should be used to build the word list file. This is included
+for historical reasons and so that I have a word list to compare against the
+"munched" word list. To build the proper word list with affixes, use the
+following command:
+
+$ aspell --lang=tl munch-list multi keep < tl.noaffix.wl | sort > tl.wl
+
+This should create the sorted word list in a file called 'tl.wl'.
+
+
 TODO
 ----
 
