@@ -23,7 +23,7 @@ for historical reasons and so that I have a word list to compare against the
 "munched" word list. To build the proper word list with affixes, use the
 following command:
 
-$ aspell --lang=tl munch-list multi keep < tl.noaffix.wl | sort > tl.wl
+$ LANG=C aspell --lang=tl munch-list multi keep < tl.noaffix.wl | sort > tl.wl
 
 This should create the sorted word list in a file called 'tl.wl'.
 

@@ -1,6 +1,12 @@
 NEWS
 ----
 
+aspell-tl 0.4
+=============
+
+ * Attach affixes to the word list. 
+ * Versioning changes.
+
 
 aspell-tl 0.3
 =============

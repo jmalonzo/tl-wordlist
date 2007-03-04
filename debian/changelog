@@ -1,3 +1,12 @@
+aspell-tl (0.4-0-1) unstable; urgency=low
+  
+  * New upstream release aspell6-tl-0.4-0.
+  * debian/changelog: whitespace removal patch by 
+    Agustin Martin <agmartin@debian.org>
+  * README.Debian-source: how to repackage upstream tarball
+  
+ -- Jan Alonzo <jmalonzo@unpluggable.com>  Monday, 05 Mar 2007 10:30:00 +1100
+
 aspell-tl (0.3-1) unstable; urgency=low
 
   * Updated Standards-Version to 3.7.2.

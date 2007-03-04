@@ -1,0 +1,17 @@
+Repacking the upstream source
+
+1. Get the upstream tarball from http://code.google.com/p/tagalog-wordlist/downloads
+2. Unpack the archive
+  
+   $ tar xjf aspell6-tl-0.4.0.tar.bz2
+
+3. Rename the archive to *.orig, removing the '6' from the word aspell.
+
+   $ mv aspell6-tl-0.4.0 aspell-tl-0.4-0.orig
+
+4. Create the orig tarball
+
+   $ tar czf aspell-tl_0.4-0.orig.tar.gz aspell-tl-0.4.0.orig
+
+4. get debian package files
+5. rebuild
