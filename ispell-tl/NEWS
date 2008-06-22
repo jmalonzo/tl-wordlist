@@ -1,0 +1,13 @@
+
+ispell-tl 0.3.1
+---------------
+
+ - Added NEWS 
+ - Fixed makefile - build rule for tl.hash
+
+
+ispell-tl 0.3
+-------------
+
+ - Updated word list
+ - Cleaned up build scripts

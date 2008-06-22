@@ -1,0 +1,19 @@
+# tl.aff for ispell-tl
+
+# headers:options
+nroffchars	().\\*
+texchars	()\[]{}<\>\\$*.%
+allaffixes on                         
+compoundwords off
+
+# headers:char-sets
+defstringtype "nroff" "nroff" ".mm" ".ms" ".me" ".man" ".NeXT"
+
+boundarychars	'
+boundarychars	[---]
+wordchars	[a-z] [A-Z]
+stringchar	ñ	Ñ
+
+suffixes
+flag A:
+	.	>	A

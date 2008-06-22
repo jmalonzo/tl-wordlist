@@ -1,0 +1,16 @@
+Source: ispell-tl
+Section: text
+Priority: optional
+Maintainer: Jan Alonzo <jmalonzo@unpluggable.com>
+Build-Depends: debhelper (>= 4.1.0), dictionaries-common-dev (>= 0.70), cdbs (>= 0.4.5), ispell
+Standards-Version: 3.7.2
+
+Package: itagalog
+Architecture: any
+Depends: dictionaries-common (>= 0.10), ispell, debconf | debconf-2.0
+Provides: ispell-dictionary
+Description: A Tagalog dictionary for Ispell
+ This is the Tagalog dictionary to be used with Ispell.
+ It contains more than 18,000 words.
+ .
+  Homepage: http://code.google.com/p/tagalog-wordlist/
