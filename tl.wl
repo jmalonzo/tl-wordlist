@@ -8170,7 +8170,7 @@ malabnaw
 malabo
 Malabon
 malabong
-Malacañang
+MalacaÃ±ang
 malaganap
 malagay
 malagkit
