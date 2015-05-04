@@ -109,6 +109,7 @@ ahensiyang
 ahensya
 ahensyang
 ahente
+Ah'Kong
 akademiko
 akademikong
 akademisyan
@@ -158,6 +159,7 @@ aktibong
 aktitud
 akto
 aktor
+aktres
 aktuhan
 aktuwal
 aktwal
@@ -169,6 +171,7 @@ ala-ala
 alaalang
 alab
 alabok
+Aladin
 alaga
 alagaan
 alagad
@@ -199,6 +202,7 @@ alas-siyete
 alat
 ala-una
 alay
+Albanya
 Albay
 Albuquerque
 alcalde
@@ -296,9 +300,11 @@ andito
 andros
 andun
 ang
+angas
 angaw
 angdatingdaan
 Angeles
+Angelus
 anggulo
 anghang
 anghel
@@ -318,6 +324,7 @@ anila
 anilang
 anila'y
 anim
+anime
 animnapu
 animnapung
 animo
@@ -350,6 +357,7 @@ Antipolo
 antok
 antolohiya
 antropolohiya
+anu
 anu-ano
 anu-anong
 anumalya
@@ -432,6 +440,7 @@ Aring
 arinola
 Aristeo
 arkila
+arkitektura
 arko
 armado
 armadong
@@ -459,6 +468,7 @@ asero
 Asia
 Asian
 Asid
+asido
 asignatura
 asignaturang
 asikaso
@@ -546,6 +556,7 @@ ayunan
 ayuno
 ayus
 ayusin
+ba
 baba
 bababa
 babad
@@ -685,6 +696,7 @@ balbula
 baleng
 Balete
 balewalain
+bali-balita
 balido
 balidong
 baligtad
@@ -724,6 +736,7 @@ banayad
 banda
 bandang
 banday
+bandera
 bandido
 bandidong
 bandila
@@ -1129,6 +1142,7 @@ bituing
 bituka
 biyahe
 biyaheng
+biyahero
 biyaya
 biyayang
 biyenan
@@ -1140,6 +1154,7 @@ biyolohikal
 biyolohiya
 biyuda
 blanko
+blog
 bobo
 boboto
 bodega
@@ -1157,6 +1172,7 @@ bombang
 bombero
 bombilya
 bomoto
+bongga
 Bonifacio
 bonus
 boong
@@ -1652,6 +1668,7 @@ di-kalayuan
 di-karaniwang
 dikaya
 dikit
+diksiyonaryo
 diksyonaryo
 diksyunaryo
 dikta
@@ -1803,6 +1820,7 @@ diumano
 diumano'y
 diwa
 diwang
+diwangtanglaw
 diwata
 diyabetis
 diyablo
@@ -1812,6 +1830,7 @@ diyaryo
 diyeta
 diyos
 Diyos
+diyosa
 diyos-diyos
 diyos-diyosan
 diyos-diyosang
@@ -1929,7 +1948,10 @@ Dutch
 duwag
 duyan
 dyan
+d'yan
 dyang
+dyaryo
+Dyaryo-Bakal-Bote
 dyip
 dyosa
 ebak
@@ -1996,6 +2018,7 @@ ekstrang
 ektar
 ektarya
 ektaryang
+eleganteng
 eleksiyon
 eleksiyong
 eleksyon
@@ -2003,6 +2026,7 @@ eleksyong
 elektoral
 elektriko
 elektrisidad
+elektron
 elektronik
 elektroniko
 elektronikong
@@ -2019,6 +2043,7 @@ e-mail
 embahada
 emerhensiya
 emerhensiyang
+emo
 emosyon
 emosyonal
 emperador
@@ -2030,6 +2055,7 @@ empresang
 enerhiya
 enerhiyang
 Enero
+eng
 engkantado
 engkanto
 english
@@ -2044,6 +2070,7 @@ epektong
 Epeso
 epidemiko
 epidemiya
+epiko
 episiyensiya
 episyente
 Erap
@@ -2054,8 +2081,10 @@ esensya
 esensyal
 eskriba
 eskribas
+eskultura
 eskuwela
 eskuwelahan
+eskwela
 eskwelahan
 espada
 Espanol
@@ -2118,6 +2147,7 @@ Filipino
 Filipinong
 Filipinos
 Filipos
+Flerida
 font
 frayle
 frayleng
@@ -2451,8 +2481,10 @@ Gustung-gusto
 gutom
 guwantes
 guya
+gwapo
 haba
 habag
+habagat
 habambuhay
 habang
 habang-buhay
@@ -2643,12 +2675,14 @@ Hesukristo
 Hesukristong
 hesus
 heto
+hibang
 hibla
 hidwaan
 hidwang
 higaan
 higante
 higanteng
+Higaonon
 high
 high-tech
 higisha
@@ -3210,6 +3244,7 @@ ikinaila
 ikinakabit
 ikinakaila
 ikinakalat
+Ikinakarga
 ikinakasal
 ikinalat
 ikinalulungkot
@@ -3339,6 +3374,7 @@ imperyalismo
 imperyalismong
 imperyalista
 imperyalistang
+imperyo
 impiyerno
 implasyon
 implementasyon
@@ -3361,6 +3397,7 @@ imprastraktura
 imprastruktura
 imprenta
 impresyon
+impyerno
 imulat
 imungkahi
 ina
@@ -4132,10 +4169,12 @@ iskema
 iskolar
 iskolarsyip
 iskrip
+iskul
 iskuwela
 iskwad
 iskwater
 isla
+islam
 Islam
 Islamiko
 islang
@@ -4740,12 +4779,14 @@ kalaliman
 kalamangan
 kalamansi
 kalamidad
+kalamnan
 kalan
 kalang
 kalangay
 kalangitan
 kalansay
 kalansing
+Kalantiaw
 kalapad
 kalapastanganan
 kalapat
@@ -4913,6 +4954,7 @@ kamunduhan
 kamurahan
 kamusmusan
 kamusta
+kana
 kanais-nais
 kanal
 kanan
@@ -5004,6 +5046,7 @@ kapamahalaang
 kapamilya
 ka-pamilya
 kapamilyang
+kapampangan
 Kapampangan
 kapanahunan
 kapanahunang
@@ -5291,6 +5334,7 @@ katampatang
 katamtaman
 katamtamang
 katandaan
+katangahan
 katanggap-tanggap
 katanghalian
 katangian
@@ -5470,6 +5514,7 @@ kayumanggi
 kelan
 kelangan
 kemikal
+keso
 kesyo
 ketong
 ketsap
@@ -5488,6 +5533,7 @@ kilalang
 kilalanin
 kilatisin
 kilay
+kilig
 kilo
 kilometro
 kilometrong
@@ -5668,6 +5714,7 @@ koma
 komandante
 komander
 kombinasyon
+komedi
 komentaryo
 komento
 komersiyal
@@ -5816,6 +5863,7 @@ korales
 korapsyon
 kordero
 Korderong
+korean
 Koreano
 koreo
 koro
@@ -5846,6 +5894,7 @@ krimen
 krimeng
 kriminal
 kriminalidad
+kris
 krisis
 kristal
 kristiano
@@ -5981,6 +6030,7 @@ kuno
 kunsabagay
 kunsumo
 kuntento
+kunwari
 kunyari
 kunyaring
 kupas
@@ -5988,6 +6038,7 @@ kupon
 kurakot
 kurikulum
 kuripot
+kuro
 kuro-kuro
 kurso
 kursong
@@ -6243,6 +6294,7 @@ law
 lawa
 lawak
 lawang
+lawas
 laway
 lawin
 laya
@@ -6983,6 +7035,7 @@ magharap
 maghari
 maghatid
 maghayag
+mag-hello
 maghiganti
 maghihiganti
 maghihilom
@@ -7527,6 +7580,7 @@ maharap
 maharlika
 maharlikang
 mahati
+mahatiran
 mahatulan
 mahawa
 mahawakan
@@ -8250,6 +8304,7 @@ maliit
 maliitin
 malikhain
 malikhaing
+malikot
 maliksi
 maliksing
 maliligaw
@@ -8413,6 +8468,7 @@ mandirigmang
 manedsment
 manedyer
 mang
+manga
 Manga
 mang-aabala
 mangaaliw
@@ -8536,6 +8592,7 @@ manok
 manong
 manonood
 manood
+manoy
 Manoy
 mansanas
 mantika
@@ -8723,6 +8780,7 @@ maparusahan
 mapasa
 mapasaatin
 mapasailalim
+mapasakanya
 mapasama
 mapasasailalim
 mapasok
@@ -9188,6 +9246,7 @@ mawika
 may
 ma'y
 maya
+mayabang
 mayabong
 mayakap
 may-akda
@@ -9348,6 +9407,7 @@ mithi
 mithiin
 mithiing
 miting
+mito
 mitsa
 miyembro
 miyembrong
@@ -9360,6 +9420,7 @@ modelong
 modernisasyon
 moderno
 modernong
+modyul
 Moises
 mokong
 mondo
@@ -9405,6 +9466,7 @@ mundong
 mundo'y
 mungkahi
 mungkahing
+muni-muni
 munisipal
 munisipalidad
 munisipyo
@@ -9412,6 +9474,7 @@ munisipyong
 munispyo
 munti
 muntik
+muntikan
 munting
 muog
 mura
@@ -11137,6 +11200,7 @@ nandiyan
 nandoon
 nandun
 nanduon
+nandyan
 nang
 na'ng
 nangabubuhay
@@ -11289,6 +11353,7 @@ napailalim
 napailing
 napaisip
 napaiyak
+napaka
 napakababa
 napakababang
 napakabagal
@@ -11366,6 +11431,7 @@ napapagitna
 napapagod
 napapahamak
 napapailalim
+Napapakamot
 napapakinabangan
 napapakinggan
 napapako
@@ -11377,6 +11443,7 @@ napapaloob
 napapanahon
 napapanahong
 napapanatili
+napapanood
 napapansin
 napapasailalim
 napapasobra
@@ -11820,12 +11887,14 @@ niyogan
 niyon
 niyong
 niyugan
+nman
 nobela
 nobelang
 nobenta
 nobya
 Nobyembre
 nobyo
+noh
 Noli
 nominado
 nominasyon
@@ -11834,6 +11903,7 @@ noo
 noon
 noong
 noo'y
+norte
 Norte
 notisya
 Noviembre
@@ -11851,6 +11921,7 @@ nutrisyon
 nya
 nyan
 nyang
+n'yang
 nyo
 nyong
 o
@@ -11871,6 +11942,7 @@ obra
 obrero
 obserbasyon
 Octobre
+OFWs
 ok
 okasyon
 okasyong
@@ -11934,6 +12006,7 @@ oryentasyon
 oryentasyong
 oso
 ospital
+otep
 pa
 paa
 paaalisin
@@ -13257,6 +13330,7 @@ pagtatama
 pagtatamasa
 pagtatamo
 pagtatanggal
+pagtatanggi
 pagtatanggol
 pagtatanghal
 pagtatangi
@@ -13324,6 +13398,7 @@ pagtugon
 pagtugtog
 pagtuklas
 pagtukoy
+pagtula
 pagtuligsa
 pagtulo
 pagtulog
@@ -13412,6 +13487,7 @@ pahahalagahan
 pahalagahan
 pahalang
 paham
+pahamak
 pahayag
 pahayagan
 pahayagang
@@ -13767,6 +13843,7 @@ pampalakas
 pampalakasan
 pampalamig
 pampalasa
+Pampalibang
 pampaligo
 pampalubag-loob
 pampamahalaan
@@ -13778,6 +13855,7 @@ pampamilya
 pampamilyang
 pampananalapi
 pampang
+pampanga
 Pampanga
 pampangasiwaan
 pampangisdaan
@@ -13792,6 +13870,7 @@ pampelikula
 pampigil
 pampinansiyal
 pamplet
+pampolitika
 pampook
 pamproduksyon
 pampropaganda
@@ -13989,6 +14068,7 @@ pang-ekonomyang
 pang-emergency
 pang-emerhensiyang
 pang-estado
+panget
 panggabing
 panggagahasa
 panggagalingan
@@ -14274,6 +14354,7 @@ pantatak
 pantay
 pantay-pantay
 panteknolohiya
+pantelebisyon
 Panteritoryo
 pantig
 pantrapiko
@@ -14285,6 +14366,7 @@ panukalang
 panukalang-batas
 panukat
 panulaan
+panulaang
 panulat
 panulok
 Panulukang
@@ -14448,6 +14530,7 @@ pasasa
 pasasabihan
 Pasasagutin
 pasasalamat
+pasaway
 Pasay
 pasayahin
 paseguruhan
@@ -14473,6 +14556,7 @@ pasista
 pasistang
 pasiya
 pasiyang
+paskil
 pasko
 paskua
 paskuwa
@@ -14968,6 +15052,7 @@ pinakapopular
 pinakapunong-saserdote
 pinakasalan
 pinakasentro
+pinakasikat
 pinakasulong
 pinakatamang
 pinakatanyag
@@ -15069,6 +15154,7 @@ pinapalitan
 pinapangalagaan
 pinapangarap
 pinapanigan
+pinapanood
 pinapansin
 pinapapasok
 pinapasan
@@ -15212,6 +15298,7 @@ pirmihang
 pisara
 Pisay
 pisi
+pisika
 pisikal
 piskal
 pisngi
@@ -15236,6 +15323,7 @@ piye
 piyer
 piyesta
 piyudal
+pla
 plaka
 planeta
 planetang
@@ -15256,8 +15344,11 @@ plaza
 plebisito
 plema
 plenaryo
+plugin
+PNoy
 po
 poder
+pogi
 pokus
 poligamo
 Polillo
@@ -15429,6 +15520,7 @@ Protestante
 protina
 proyekto
 proyektong
+prusisyon
 prutas
 pruweba
 puan
@@ -15780,8 +15872,10 @@ riyan
 Rizal
 robot
 Roma
+romantikong
 romantisismo
 Romblon
+Romel
 roon
 roong
 rosaryo
@@ -15843,6 +15937,7 @@ sahig
 sahin
 sahod
 sahurang
+Saing
 sais
 saka
 sakahan
@@ -15903,6 +15998,7 @@ salihan
 salik
 saliksikin
 salin
+salin-awit
 saling
 salinglahi
 salinlahi
@@ -16006,17 +16102,18 @@ sanlibutan
 sanlibutang
 sanlinggo
 sansinukob
+santa
 santaon
 Santisima
 santo
 santol
 santong
+santuario
 santuwaryo
 sapa
 sapagakat
 sapagkat
 sapagka't
-sapagkat
 sapal
 sapang
 sapantaha
@@ -16044,6 +16141,7 @@ sariling
 sarilinin
 saring
 sari-sari
+Sari-Sari
 sari-sarili
 sari-sariling
 sarisaring
@@ -16137,6 +16235,7 @@ selestiyal
 selos
 selyo
 selyong
+semana
 sembreak
 sementeryo
 semento
@@ -16568,6 +16667,7 @@ sosyalismo
 sosyalista
 sosyalistang
 sosyedad
+Sosyo-Politikal
 Sri
 stratehiya
 subalit
@@ -16616,6 +16716,7 @@ sulatan
 sulatin
 sulating
 sulat-kamay
+sulatronikong
 suliranin
 suliraning
 sulit
@@ -16853,6 +16954,7 @@ tagabasa
 tagabigay
 tagabukid
 taga-bukid
+taga-bundok
 tagabunsod
 tagadala
 tagaempleyo
@@ -17019,6 +17121,7 @@ takda
 takdaan
 takdang
 takdang-aralin
+Takdang-Aralin
 takilya
 takip
 takipsilim
@@ -17093,6 +17196,7 @@ tambak
 tambakan
 tambalan
 tambay
+tambayan
 tambing
 tambol
 tamborin
@@ -17239,6 +17343,7 @@ tatlong
 tatlumpong
 tatlumpung
 tatlumpu't
+tatsulok
 tauhan
 tauhang
 taumbayan
@@ -17264,6 +17369,7 @@ tayong
 tayoy
 tayo'y
 Taytay
+tayutay
 teacher
 teatro
 teka
@@ -17284,6 +17390,7 @@ Telekomunikasyon
 telephone
 telepono
 teleponong
+teleserye
 tema
 temang
 temperatura
@@ -17548,8 +17655,10 @@ tiyaking
 tiyan
 tiyo
 tiyuhin
+tlga
 tner
 to
+todo
 tokador
 tolda
 toll-free
@@ -17611,6 +17720,7 @@ tsart
 tsek
 tseke
 Tsina
+tsinelas
 Tsino
 Tsinong
 tsismis
@@ -18015,6 +18125,7 @@ umurong
 umusad
 umusbong
 umuubra
+umuulan
 umuunlad
 umuupa
 umuupo
@@ -18043,6 +18154,7 @@ ungol
 unibersal
 unibersidad
 uniberso
+Unido
 Unidos
 uniporme
 Universidad
@@ -18125,10 +18237,12 @@ walang-asawa
 walang-bayad
 walang-hanggang
 walang-tirahang
+walis
 walo
 walong
 wang
 wangis
+Wanna-Be
 wari
 wariin
 wari'y
@@ -18146,6 +18260,7 @@ white
 wika
 wikang
 wika'y
+wiki
 winasak
 winawalang
 winawasak
@@ -18170,6 +18285,7 @@ yarihan
 yaring
 yata
 yatang
+yaya
 yayakapin
 yayaman
 yayamang
