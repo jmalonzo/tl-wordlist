@@ -2481,6 +2481,7 @@ Gustung-gusto
 gutom
 guwantes
 guya
+guyabano
 gwapo
 haba
 habag
